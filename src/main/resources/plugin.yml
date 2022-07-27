@@ -1,0 +1,9 @@
+name: SurvivalMods
+version: '${project.version}'
+main: craftplugins.survivalmods.SurvivalMods
+api-version: 1.19
+authors: [ Dirk ]
+description: A survival challenges plugin for vanilla Minecraft
+commands:
+  challenges:
+    description: Opens the GUI for picking challenges
