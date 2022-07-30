@@ -1,3 +1,5 @@
+**Plugin Download:** https://www.spigotmc.org/resources/survivalmods.103810/
+
 Use the /challenges command to open the challenges GUI. In the GUI you can toggle which challenges you would like to be participating in.
 
 As of right now there are only 9 challenges available:
