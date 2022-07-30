@@ -10,4 +10,4 @@ As of right now there are only 9 challenges available:
 - Twinkle Toes: All fall damage will kill you
 - Vampirism: Sunlight burns you and you can only eat raw meat
 
-If you have any ideas for other challenges, feel free to message me at gaugerderek@gmail.com
+If you have any ideas for other challenges, feel free to message me at gaugerderek@gmail.com or Discord: Dirk#8540
